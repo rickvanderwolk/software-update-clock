@@ -2,4 +2,4 @@
 
 ![preview](preview-sm.png)
 
-[Live](https://rickvanderwolk.com/software-update-clock/index.html)
+[Live](https://softwareupdateclock.com)
