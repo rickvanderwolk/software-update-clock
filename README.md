@@ -1,5 +1,5 @@
 # Software update clock
 
-![preview](preview.png)
+![preview](preview-sm.png)
 
 [Live](https://rickvanderwolk.com/software-update-clock/index.html)
